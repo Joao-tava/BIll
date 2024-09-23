@@ -1,0 +1,9 @@
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex02.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex03.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex06.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex08.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex09.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex05.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ex07.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alunos/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
